@@ -1,4 +1,4 @@
-# Hi welcome to my repo.
+# Hi welcome to my Profile.
 
 ### I'm GappleCider I like coding AIs and games.
 
