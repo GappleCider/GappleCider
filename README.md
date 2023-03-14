@@ -1,8 +1,5 @@
 <h1 align="center">:fire::fire:Hi welcome to my Profile.:fire::fire:</h1>
 
-
-<img style="height:100px" src="https://user-images.githubusercontent.com/117851605/223831658-1e0be403-24f5-4baa-84f3-7b2392bcdd9d.gif">
-
 <h3 align="center">I'm GappleCider I like coding AIs and games.</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GappleCider&show_icons=true&theme=radical&PAT_1=" style="width:500px"></p>
