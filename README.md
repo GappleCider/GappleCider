@@ -11,3 +11,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GappleCider&repo=SunDrop&theme=radical">        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GappleCider&repo=SCSS-Library&theme=radical"></p>
 
 <h3 align="center"><strong>And remember to always eat gapples! ;)</strong></h3>
+
+<a href="https://discord.com/channels/@GappleCider">Discord<a>
+
