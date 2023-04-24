@@ -12,5 +12,3 @@
 
 <h3 align="center"><strong>And remember to always eat gapples! ;)</strong></h3>
 
-<a href="https://discord.com/channels/@GappleCider">Discord<a>
-
